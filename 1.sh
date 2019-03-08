@@ -85,7 +85,7 @@ sleep 1
 clear
 echo
 echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"  
-echo $ku"█"$i"    --» SELAMAT DATANG BOS «--"$ku"        █"
+echo $ku"█"$i"   --» SELAMAT DATANG BOS «--"$ku"        █"
 echo $ku"█"$me"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"$ku"█"
 echo $ku"█"$pu" Author    :  Edi           "$ku"         █"
 echo $ku"█"$pu" WhatsApp  :  083808341xxx"$ku"           █"
