@@ -84,30 +84,30 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $cy"==================="$cy" ==================="  
-echo $ku"█"$pu"    Berdoa dulu sebelum menggunakan"$ku"  █"
-echo $ku"█"$me"====================================="$ku"█"
-echo $ku"█"$pu"  Author  :  Edi           "$ku"          █"
-echo $ku"█"$pu"  WhatsApp:  083808341xxx"$ku"            █"
-echo $ku"█"$pu"  Gmail   :  edi.nasa03@gmail.com"$ku"    █"
-echo $ku"█"$pu"  Youtube :  Edi Garsell"$ku"             █"
-echo $ku"█"$pu"  Github  :  github.com/MEiZU-M5"$ku"     █"
-echo $cy"==================="$cy" ==================="
+echo $cy"___________________________________________"  
+echo $ku"|"$pu"Berdo'a dulu sebelum menggunakan..^_^"$ku"|"
+echo $ku"|"$me"_____________________________________"$ku"|"
+echo $ku"|"$pu" Author    :  Edi                    "$ku"|"
+echo $ku"|"$pu" WhatsApp  :  083808341xxx           "$ku"|"
+echo $ku"|"$pu" Gmail     :  edi.nasa03@gmail.com   "$ku"|"
+echo $ku"|"$pu" Youtube   :  Edi Garsell            "$ku"|"
+echo $ku"|"$pu" Alamat RM :  Bungbulang             "$ku"|"
+echo $cy"___________________________________________"
 echo
-echo $i"->Menu:"
-echo $ku"{"$me"1"$ku"}"$cy" Report FB"
-echo $ku"{"$me"2"$ku"}"$cy" Brute Force"
-echo $ku"{"$me"3"$ku"}"$cy" Brute Force Facebook Cracker"
-echo $ku"{"$me"4"$ku"}"$cy" Mbf"
-echo $ku"{"$me"5"$ku"}"$cy" Cloning Yahoo"
-echo $ku"{"$me"6"$ku"}"$cy" OsiF"
-echo $ku"{"$me"7"$ku"}"$cy" Bot Reaction Facebook"
-echo $ku"{"$me"8"$ku"}"$cy" Spam Call"
-echo $ku"{"$me"9"$ku"}"$cy" Youtube-dl"
-echo $ku"{"$me"10"$ku"}"$cy" Keluar"
+echo $cy"--+Menu BRUTEPORCE:"
+echo $ku"⟨"$i"1"$ku"⟩"$me" Report FB"
+echo $ku"⟨"$i"2"$ku"⟩"$me" Brute Force"
+echo $ku"⟨"$i"3"$ku"⟩"$me" Brute Force Facebook Cracker"
+echo $ku"⟨"$i"4"$ku"⟩"$me" Mbf"
+echo $ku"{"$i"5"$ku"⟩"$me" Cloning Yahoo"
+echo $ku"⟨"$i"6"$ku"⟩"$me" OsiF"
+echo $ku"⟨"$i"7"$ku"⟩"$me" Bot Reaction Facebook"
+echo $ku"⟨"$i"8"$ku"⟩"$me" Spam Call"
+echo $ku"⟨"$i"9"$ku"⟩"$me" Youtube-dl"
+echo $ku"⟨"$i"10"$ku"⟩"$me" Keluar"
 echo
-echo $ku"╭─{"$i"Pilihlah sesuai ke inginan Anda"$ku"}"
-read -p"╰─> : " pil
+echo $me"╭─{"$cy"Pilihlah sesuai ke inginan Anda"$me"}"
+read -p"╰─⟩⟩ : " pil
 
 if [ $pil = 1 ]
 then
