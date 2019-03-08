@@ -84,7 +84,7 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $cy"____________________________________________"  
+echo $cy"___________________"$cy" ___________________"  
 echo $ku"|"$pu"Berdo'a dulu sebelum menggunakan.^_^"$ku" |"
 echo $ku"|"$me"_____________________________________"$ku"|"
 echo $ku"|"$pu" Author    :  Edi           "$ku"         |"
@@ -92,9 +92,9 @@ echo $ku"|"$pu" WhatsApp  :  083808341xxx"$ku"           |"
 echo $ku"|"$pu" Gmail     :  edi.nasa03@gmail.com"$ku"   |"
 echo $ku"|"$pu" Youtube   :  Edi Garsell"$ku"            |"
 echo $ku"|"$pu" Alamat RM :  Bungbulang"$ku"             |"
-echo $cy"____________________________________________"
+echo $cy"___________________"$cy" ___________________"
 echo
-echo $cy"--› Menu BRUTEPORCE:"
+echo $cy"--› Menu BRUTEPORCE NEWS:"
 echo $ku"⟨"$i"1"$ku"⟩"$me" Report FB"
 echo $ku"⟨"$i"2"$ku"⟩"$me" Brute Force"
 echo $ku"⟨"$i"3"$ku"⟩"$me" Brute Force Facebook Cracker"
