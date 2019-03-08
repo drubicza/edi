@@ -85,13 +85,13 @@ sleep 1
 clear
 echo
 echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"  
-echo $ku"█"$i"   --» SELAMAT DATANG BOS «--"$ku"        █"
-echo $i"█"$me"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"$i"█"
-echo $i"█"$i"  Author    :  Edi          "$i"         █"
-echo $cy"█"$i" WhatsApp  :  083808341xxx"$cy"           █"
-echo $me"█"$i" Gmail     :  edi.nasa03@gmail.com"$me"   █"
-echo $pu"█"$i" Youtube   :  Edi Garsell"$pu"            █"
-echo $ku"█"$i" Alamat RM :  Bungbulang"$ku"             █"
+echo $cy"█"$i"   --» SELAMAT DATANG BOS «--"$ku"         █"
+echo $cy"█"$me"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"$cy"█"
+echo $cy"█"$i" Author    :  Edi            "$cy"         █"
+echo $cy"█"$i" WhatsApp  :  083808341xxx"$cy"            █"
+echo $cy"█"$i" Gmail     :  edi.nasa03@gmail.com"$cy"    █"
+echo $cy"█"$i" Youtube   :  Edi Garsell"$cy"             █"
+echo $cy"█"$i" Alamat RM :  Bungbulang"$cy"              █"
 echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"
 echo
 echo $bi"-----› Menu BRUTEPORCE NEWS:"
