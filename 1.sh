@@ -86,7 +86,7 @@ clear
 echo
 echo $cy"==================="$cy" ==================="  
 echo $ku"█"$pu"    Berdoa dulu sebelum menggunakan"$ku"  █"
-echo $ku"█"$pu"====================================="$ku"█"
+echo $ku"█"$me"====================================="$ku"█"
 echo $ku"█"$pu"  Author  :  Edi           "$ku"          █"
 echo $ku"█"$pu"  WhatsApp:  083808341xxx"$ku"            █"
 echo $ku"█"$pu"  Gmail   :  edi.nasa03@gmail.com"$ku"    █"
