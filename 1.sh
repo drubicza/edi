@@ -100,10 +100,11 @@ echo $ku"{"$me"2"$ku"}"$cy" Brute Force"
 echo $ku"{"$me"3"$ku"}"$cy" Brute Force Facebook Cracker"
 echo $ku"{"$me"4"$ku"}"$cy" Mbf"
 echo $ku"{"$me"5"$ku"}"$cy" Cloning Yahoo"
-echo $ku"{"$me"6"$ku"}"$cy" Bot Reaction Facebook"
-echo $ku"{"$me"7"$ku"}"$cy" Spam Call"
-echo $ku"{"$me"8"$ku"}"$cy" Youtube-dl"
-echo $ku"{"$me"9"$ku"}"$cy" Keluar"
+echo $ku"{"$me"6"$ku"}"$cy" OsiF"
+echo $ku"{"$me"7"$ku"}"$cy" Bot Reaction Facebook"
+echo $ku"{"$me"8"$ku"}"$cy" Spam Call"
+echo $ku"{"$me"9"$ku"}"$cy" Youtube-dl"
+echo $ku"{"$me"10"$ku"}"$cy" Keluar"
 echo
 echo $ku"╭─{"$i"Pilihlah sesuai ke inginan Anda"$ku"}"
 read -p"╰─> : " pil
@@ -166,12 +167,23 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
+git clone https://github.com/Edi-nasa47/8.git
+cd 8
+pip2 install -r requirements.txt
+python2 osif.py
+fi
+
+if [ $pil = 7 ]
+then
+clear
+figlet -f slant "Lest G O ."|lolcat
+sleep 1
 git clone https://github.com/Edi-nasa47/5.git
 cd 5
 python2 blackbot.py
 fi
 
-if [ $pil = 7 ]
+if [ $pil = 8 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -181,7 +193,7 @@ cd 4
 php SpamCall.php
 fi
 
-if [ $pil = 8 ]
+if [ $pil = 9 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -191,7 +203,7 @@ cd 6
 sh youtube-dl.sh
 fi
 
-if [ $pil = 9 ]
+if [ $pil = 10 ]
 then
 clear
 figlet -f slant "E X I T"|Ulolcat
