@@ -85,13 +85,13 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ==================="
-echo $i"█"$pu"  Author  :  Edi           "$i"          █"
-echo $i"█"$pu"  WhatsApp:  083808341xxx"$i"            █"
-echo $i"█"$pu"  Gmail   :  edi.nasa03@gmail.com"$i"    █"
+echo $me"█"$pu"  Author  :  Edi           "$me"          █"
+echo $ku"█"$pu"  WhatsApp:  083808341xxx"$ku"            █"
+echo $bi"█"$pu"  Gmail   :  edi.nasa03@gmail.com"$bi"    █"
 echo $i"█"$pu"  Youtube :  Edi Garsell"$i"             █"
 echo $pur"==================="$cy" ==================="
 echo
-echo $bi"-----› Menu BRUTEPORCE NEWS:"
+echo $i"-----› Menu BRUTEPORCE NEWS:"
 echo $cy"⟨"$pu"1"$cy"⟩"$i" -» Report FB"
 echo $cy"⟨"$pu"2"$cy"⟩"$i" -» Brute Force"
 echo $cy"⟨"$pu"3"$cy"⟩"$i" -» Brute Force Facebook Cracker"
@@ -104,7 +104,7 @@ echo $cy"⟨"$pu"9"$cy"⟩"$i" -» Download Mp3"
 echo $cy"⟨"$pu"10"$cy"⟩"$i"-» Youtube-dl"
 echo $cy"⟨"$pu"11"$cy"⟩"$i"-» Keluar"
 echo
-echo $pu"╭─["$bi"Pilih sesuai ke inginan Anda"$pu"]"
+echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
 read -p"╰─> : " pil
 
 if [ $pil = 1 ]
