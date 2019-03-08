@@ -95,16 +95,17 @@ echo $ku"█"$pu" Alamat RM :  Bungbulang"$ku"             █"
 echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"
 echo
 echo $i"--› Menu BRUTEPORCE NEWS:"
-echo $ku"⟨"$i"1"$ku"⟩"$me" Report FB"
-echo $ku"⟨"$i"2"$ku"⟩"$me" Brute Force"
-echo $ku"⟨"$i"3"$ku"⟩"$me" Brute Force Facebook Cracker"
-echo $ku"⟨"$i"4"$ku"⟩"$me" Mbf"
-echo $ku"⟨"$i"5"$ku"⟩"$me" Cloning Yahoo"
-echo $ku"⟨"$i"6"$ku"⟩"$me" OsiF"
-echo $ku"⟨"$i"7"$ku"⟩"$me" Bot Reaction Facebook"
-echo $ku"⟨"$i"8"$ku"⟩"$me" Spam Call"
-echo $ku"⟨"$i"9"$ku"⟩"$me" Youtube-dl"
-echo $ku"⟨"$i"10"$ku"⟩"$me" Keluar"
+echo $ku"⟨"$i"1"$ku"⟩"$me"  Report FB"
+echo $ku"⟨"$i"2"$ku"⟩"$me"  Brute Force"
+echo $ku"⟨"$i"3"$ku"⟩"$me"  Brute Force Facebook Cracker"
+echo $ku"⟨"$i"4"$ku"⟩"$me"  Mbf"
+echo $ku"⟨"$i"5"$ku"⟩"$me"  Cloning Yahoo"
+echo $ku"⟨"$i"6"$ku"⟩"$me"  OsiF"
+echo $ku"⟨"$i"7"$ku"⟩"$me"  Bot Reaction Facebook"
+echo $ku"⟨"$i"8"$ku"⟩"$me"  Spam Call"
+echo $ku"⟨"$i"9"$ku"⟩"$me"  Download Mp3"
+echo $ku"⟨"$i"10"$ku"⟩"$me" Youtube-dl"
+echo $ku"⟨"$i"11"$ku"⟩"$me" Keluar"
 echo
 echo $i"╭─["$cy"Pilih sesuai ke inginan Anda"$i"]"
 read -p"╰─> : " pil
@@ -198,12 +199,24 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
+git clone https://github.com/Edi-nasa47/Mp3_Downloader.git
+cd Mp3_Downloader
+pip install -r requirements.txt
+python Mp3_Downloader.py
+fi
+
+if [ $pil = 10 ]
+then
+clear
+figlet -f slant "Lest G O ."|lolcat
+sleep 1
 git clone https://github.com/Edi-nasa47/6.git
 cd 6
 sh youtube-dl.sh
 fi
 
-if [ $pil = 10 ]
+
+if [ $pil = 11 ]
 then
 clear
 figlet -f slant "E X I T"|Ulolcat
