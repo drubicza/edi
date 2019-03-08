@@ -106,7 +106,7 @@ echo $ku"⟨"$i"8"$ku"⟩"$me" Spam Call"
 echo $ku"⟨"$i"9"$ku"⟩"$me" Youtube-dl"
 echo $ku"⟨"$i"10"$ku"⟩"$me" Keluar"
 echo
-echo $i"╭──["$cy"Pilih sesuai ke inginan Anda"$i"]"
+echo $i"╭─["$cy"Pilih sesuai ke inginan Anda"$i"]"
 read -p"╰─> : " pil
 
 if [ $pil = 1 ]
