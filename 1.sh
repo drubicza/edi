@@ -87,7 +87,7 @@ echo
 echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"  
 echo $ku"█"$i"   --» SELAMAT DATANG BOS «--"$ku"        █"
 echo $i"█"$me"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"$i"█"
-echo $pur"█"$i" Author   :  Edi          "$pur"       █"
+echo $pur"█"$i"Author   :  Edi                    "$pur"█"
 echo $cy"█"$i" WhatsApp  :  083808341xxx"$cy"           █"
 echo $me"█"$i" Gmail     :  edi.nasa03@gmail.com"$me"   █"
 echo $pu"█"$i" Youtube   :  Edi Garsell"$pu"            █"
