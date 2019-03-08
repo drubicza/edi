@@ -84,7 +84,7 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $cy"___________________________________________"  
+echo $cy"|__________________________________________"  
 echo $ku"|"$pu"Berdo'a dulu sebelum menggunakan.^_^"$ku "|"
 echo $ku"|"$me"_____________________________________"$ku"|"
 echo $ku"|"$pu" Author    :  Edi           "$ku         "|"
@@ -92,21 +92,21 @@ echo $ku"|"$pu" WhatsApp  :  083808341xxx"$ku           "|"
 echo $ku"|"$pu" Gmail     :  edi.nasa03@gmail.com"$ku   "|"
 echo $ku"|"$pu" Youtube   :  Edi Garsell"$ku            "|"
 echo $ku"|"$pu" Alamat RM :  Bungbulang"$ku             "|"
-echo $cy"___________________________________________"
+echo $cy"|___________________________________________"
 echo
 echo $cy"--+Menu BRUTEPORCE:"
 echo $ku"⟨"$i"1"$ku"⟩"$me" Report FB"
 echo $ku"⟨"$i"2"$ku"⟩"$me" Brute Force"
 echo $ku"⟨"$i"3"$ku"⟩"$me" Brute Force Facebook Cracker"
 echo $ku"⟨"$i"4"$ku"⟩"$me" Mbf"
-echo $ku"{"$i"5"$ku"⟩"$me" Cloning Yahoo"
+echo $ku"⟨"$i"5"$ku"⟩"$me" Cloning Yahoo"
 echo $ku"⟨"$i"6"$ku"⟩"$me" OsiF"
 echo $ku"⟨"$i"7"$ku"⟩"$me" Bot Reaction Facebook"
 echo $ku"⟨"$i"8"$ku"⟩"$me" Spam Call"
 echo $ku"⟨"$i"9"$ku"⟩"$me" Youtube-dl"
 echo $ku"⟨"$i"10"$ku"⟩"$me" Keluar"
 echo
-echo $me"╭─{"$cy"Pilihlah sesuai ke inginan Anda"$me"}"
+echo $me"╭─⟨"$cy"Pilihlah sesuai ke inginan Anda"$me"⟩"
 read -p"╰─⟩⟩ : " pil
 
 if [ $pil = 1 ]
