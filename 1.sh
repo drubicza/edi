@@ -85,13 +85,13 @@ sleep 1
 clear
 echo
 echo $cy"___________________________________________"  
-echo $ku"|"$pu"Berdo'a dulu sebelum menggunakan..^_^"$ku"|"
+echo $ku"|"$pu"Berdo'a dulu sebelum menggunakan.^_^"$ku "|"
 echo $ku"|"$me"_____________________________________"$ku"|"
-echo $ku"|"$pu" Author    :  Edi                    "$ku"|"
-echo $ku"|"$pu" WhatsApp  :  083808341xxx           "$ku"|"
-echo $ku"|"$pu" Gmail     :  edi.nasa03@gmail.com   "$ku"|"
-echo $ku"|"$pu" Youtube   :  Edi Garsell            "$ku"|"
-echo $ku"|"$pu" Alamat RM :  Bungbulang             "$ku"|"
+echo $ku"|"$pu" Author    :  Edi           "$ku         "|"
+echo $ku"|"$pu" WhatsApp  :  083808341xxx"$ku           "|"
+echo $ku"|"$pu" Gmail     :  edi.nasa03@gmail.com"$ku   "|"
+echo $ku"|"$pu" Youtube   :  Edi Garsell"$ku            "|"
+echo $ku"|"$pu" Alamat RM :  Bungbulang"$ku             "|"
 echo $cy"___________________________________________"
 echo
 echo $cy"--+Menu BRUTEPORCE:"
