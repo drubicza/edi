@@ -84,17 +84,17 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $cy"___________________"$cy" ___________________"  
-echo $ku"|"$pu"Berdo'a dulu sebelum menggunakan.^_^"$ku" |"
-echo $ku"|"$me"_____________________________________"$ku"|"
-echo $ku"|"$pu" Author    :  Edi           "$ku"         |"
-echo $ku"|"$pu" WhatsApp  :  083808341xxx"$ku"           |"
-echo $ku"|"$pu" Gmail     :  edi.nasa03@gmail.com"$ku"   |"
-echo $ku"|"$pu" Youtube   :  Edi Garsell"$ku"            |"
-echo $ku"|"$pu" Alamat RM :  Bungbulang"$ku"             |"
-echo $cy"___________________"$cy" ___________________"
+echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"  
+echo $ku"█"$i"    --» SELAMAT DATANG BOS «--"$ku"        █"
+echo $ku"█"$me"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"$ku"█"
+echo $ku"█"$pu" Author    :  Edi           "$ku"         █"
+echo $ku"█"$pu" WhatsApp  :  083808341xxx"$ku"           █"
+echo $ku"█"$pu" Gmail     :  edi.nasa03@gmail.com"$ku"   █"
+echo $ku"█"$pu" Youtube   :  Edi Garsell"$ku"            █"
+echo $ku"█"$pu" Alamat RM :  Bungbulang"$ku"             █"
+echo $pur"~~~~~~~~~~~~~~~~~~~"$pur" ~~~~~~~~~~~~~~~~~~~"
 echo
-echo $cy"--› Menu BRUTEPORCE NEWS:"
+echo $i"--› Menu BRUTEPORCE NEWS:"
 echo $ku"⟨"$i"1"$ku"⟩"$me" Report FB"
 echo $ku"⟨"$i"2"$ku"⟩"$me" Brute Force"
 echo $ku"⟨"$i"3"$ku"⟩"$me" Brute Force Facebook Cracker"
@@ -106,8 +106,8 @@ echo $ku"⟨"$i"8"$ku"⟩"$me" Spam Call"
 echo $ku"⟨"$i"9"$ku"⟩"$me" Youtube-dl"
 echo $ku"⟨"$i"10"$ku"⟩"$me" Keluar"
 echo
-echo $me"╭─⟨"$cy"Pilihlah sesuai ke inginan Anda"$me"⟩"
-read -p"╰─⟩⟩ : " pil
+echo $i"╭──["$cy"Pilih sesuai ke inginan Anda"$i"]"
+read -p"╰─> : " pil
 
 if [ $pil = 1 ]
 then
