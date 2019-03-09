@@ -84,12 +84,12 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $cy"==================="$cy" ==================="
+echo $cy"==================="$pur" ==================="
 echo $me"█"$bi"  Author  :  Edi           "$me"          █"
 echo $ku"█"$bi"  WhatsApp:  083808341xxx"$ku"            █"
 echo $bi"█"$bi"  Gmail   :  edi.nasa03@gmail.com"$bi"    █"
 echo $i"█"$bi"  Youtube :  Edi Garsell"$i"             █"
-echo $cy"==================="$cy" ==================="
+echo $me"==================="$ku" ==================="
 echo
 echo $i"-----› Menu BRUTEPORCE NEWS:"
 echo $cy"⟨"$pu"1"$cy"⟩"$bi" -» Report FB"
