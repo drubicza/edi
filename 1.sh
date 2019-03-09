@@ -102,7 +102,8 @@ echo $cy"⟨"$pu"7"$cy"⟩"$bi" -» Bot Reaction Facebook"
 echo $cy"⟨"$pu"8"$cy"⟩"$bi" -» Spam Call"
 echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Download Mp3"
 echo $cy"⟨"$pu"10"$cy"⟩"$bi"-» Youtube-dl"
-echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Keluar"
+echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Mempercantik Tampilan Termux"
+echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Keluar"
 echo
 echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
 read -p"╰─> : " pil
@@ -212,8 +213,19 @@ cd 6
 sh youtube-dl.sh
 fi
 
-
 if [ $pil = 11 ]
+then
+clear
+figlet -f slant "Lest G O ."|lolcat
+sleep 1
+git clone https://github.com/Edi-nasa47/9.git
+cd 9
+chmod +x termux.py
+python2 termux.py
+fi
+
+
+if [ $pil = 12 ]
 then
 clear
 figlet -f slant "E X I T"|Ulolcat
