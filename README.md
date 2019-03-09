@@ -13,7 +13,7 @@
 ### Pollow 
 ### FACEBOOK : https://www.facebook.com/Windows7.htmlx1
 ### Subcribe 
-### YOUTUBE  : https://www.youtube.com/channel/UCr1X7uS9_FEjITKDah2FxXw/videos?view_as=subscriber
+### YOUTUBE  : https://www.youtube.com/channel/UCr1X7uS9_FEjITKDah2FxXw/featured?view_as=subscriber
 # ™
 ### Anda sopan saya siap melayani Anda
 ### jika anda tidak sopan ya udah Tinggalin Saja 
