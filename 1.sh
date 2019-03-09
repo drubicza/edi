@@ -125,7 +125,7 @@ figlet -f slant "Lest G O ."|lolcat
 sleep 1
 git clone https://github.com/Edi-nasa47/3.git
 cd 3
-python2 MEiZU-M5.py
+python2 bf.py
 fi
 
 if [ $pil = 3 ]
