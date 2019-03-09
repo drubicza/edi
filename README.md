@@ -17,7 +17,7 @@
 # ™
 ### Anda sopan saya siap melayani Anda
 ### jika anda tidak sopan ya udah Tinggalin Saja 
-# SEKIAN DAN TERIMA KASIH.......!!!
-
+# SEKIAN DAN TERIMAKASIH 
+# JANGAN LUPA KLIK BINTANG/STAR
 # [ Screenshot ]
 <img src=".images/meizu.png "/>
