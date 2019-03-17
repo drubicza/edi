@@ -99,9 +99,9 @@ echo $cy"⟨"$pu"4"$cy"⟩"$bi" -» Mbf"
 echo $cy"⟨"$pu"5"$cy"⟩"$bi" -» Cloning Yahoo"
 echo $cy"⟨"$pu"6"$cy"⟩"$bi" -» OsiF"
 echo $cy"⟨"$pu"7"$cy"⟩"$bi" -» Bot Reaction Facebook"
-echo $cy"⟨"$pu"8"$cy"⟩"$bi" -» Spam WhatsApp
-echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Spam Call"
-echo $cy"⟨"$pu"10"$cy⟩"$bi" -» Profileguard Facebook
+echo $cy"⟨"$pu"8"$cy⟩"$bi" -» Profileguard Facebook"
+echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Spam WhatsApp"
+echo $cy"⟨"$pu"10"$cy"⟩"$bi" -» Spam Call"
 echo $cy"⟨"$pu"11"$cy"⟩"$bi" -» Download Mp3"
 echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Youtube-dl"
 echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Mempercantik Tampilan Termux"
@@ -189,9 +189,9 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
-git clone https://github.com/Edi-nasa47/12.git
-cd 12
-php whatsapp.php
+git clone https://github.com/Edi-nasa47/13.git
+cd 13
+php profile.php
 fi
 
 if [ $pil = 9 ]
@@ -199,9 +199,9 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
-git clone https://github.com/Edi-nasa47/4.git
-cd 4
-php SpamCall.php
+git clone https://github.com/Edi-nasa47/12.git
+cd 12
+php whatsapp.php
 fi
 
 if [ $pil = 10 ]
@@ -209,9 +209,9 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
-git clone https://github.com/Edi-nasa47/13.git
-cd 13
-php profile.php
+git clone https://github.com/Edi-nasa47/4.git
+cd 4
+php SpamCall.php
 fi
 
 if [ $pil = 11 ]
