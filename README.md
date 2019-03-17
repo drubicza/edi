@@ -19,5 +19,6 @@
 ### jika anda tidak sopan ya udah Tinggalin Saja 
 # SEKIAN DAN TERIMAKASIH 
 # JANGAN LUPA KLIK BINTANG/STAR
+
 # [ Screenshot ]
-<img src=".images/meizu.png "/>
+<img src=".images/screenshot.png "/>
