@@ -20,5 +20,5 @@
 # SEKIAN DAN TERIMAKASIH 
 # JANGAN LUPA KLIK BINTANG/STAR
 
-# [ Screenshot ]
+# [ SCREENSHOT ]
 <img src=".images/screenshot.png "/>
