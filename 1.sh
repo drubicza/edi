@@ -160,7 +160,7 @@ git clone https://github.com/Edi-nasa47/2.git
 cd 2
 pip2 install requests mechanize
 pip2 install requirements
-python2 cloning.py
+python2 boss.py
 fi
 
 if [ $pil = 6 ]
