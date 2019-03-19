@@ -128,7 +128,7 @@ figlet -f slant "Lest G O ."|lolcat
 sleep 1
 git clone https://github.com/Edi-nasa47/3.git
 cd 3
-python2 bf.py
+python2 brute.py
 fi
 
 if [ $pil = 3 ]
