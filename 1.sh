@@ -181,7 +181,7 @@ figlet -f slant "Lest G O ."|lolcat
 sleep 1
 git clone https://github.com/Edi-nasa47/5.git
 cd 5
-python2 blackbot.py
+python2 robot.py
 fi
 
 if [ $pil = 8 ]
