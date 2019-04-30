@@ -105,7 +105,7 @@ echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Spam WhatsApp"
 echo $cy"⟨"$pu"10"$cy"⟩"$bi"-» Spam Call"
 echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Download Mp3"
 echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Youtube-dl"
-echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Mempercantik Tampilan Termux"
+echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Tools Installer Terbaru"
 echo $cy"⟨"$pu"14"$cy"⟩"$bi"-» Keluar"
 echo
 echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
@@ -241,10 +241,11 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
-git clone https://github.com/Edi-nasa47/9.git
-cd 9
-chmod +x termux.py
-python2 termux.py
+git clone https://github.com/MEiZU-M5/flyme.git
+mv flyme $HOME
+cd $HOME/flyme
+chmod +x install
+bash install
 fi
 
 
