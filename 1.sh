@@ -241,9 +241,9 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
-git clone https://github.com/MEiZU-M5/flyme.git
-mv flyme $HOME
-cd $HOME/flyme
+git clone https://github.com/Edi-nasa47/Matriks.git
+mv Matriks $HOME
+cd $HOME/Matriks
 chmod +x install
 bash install
 fi
