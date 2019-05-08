@@ -244,8 +244,8 @@ sleep 1
 git clone https://github.com/Edi-nasa47/Matriks.git
 mv Matriks $HOME
 cd $HOME/Matriks
-chmod +x install
-bash install
+chmod +x tools
+bash tools
 fi
 
 
