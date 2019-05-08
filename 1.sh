@@ -105,8 +105,7 @@ echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Spam WhatsApp"
 echo $cy"⟨"$pu"10"$cy"⟩"$bi"-» Spam Call"
 echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Download Mp3"
 echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Youtube-dl"
-echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Tools Installer Terbaru"
-echo $cy"⟨"$pu"14"$cy"⟩"$bi"-» Keluar"
+echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Keluar"
 echo
 echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
 read -p"╰─> : " pil
@@ -237,19 +236,6 @@ sh youtube-dl.sh
 fi
 
 if [ $pil = 13 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/Matriks.git
-mv Matriks $HOME
-cd $HOME/Matriks
-chmod +x tools
-bash tools
-fi
-
-
-if [ $pil = 14 ]
 then
 clear
 figlet -f slant "E X I T"|Ulolcat
