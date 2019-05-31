@@ -106,7 +106,8 @@ echo $cy"⟨"$pu"10"$cy"⟩"$bi"-» Spam WhatsApp"
 echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Spam Call"
 echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Download Mp3"
 echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Youtube-dl"
-echo $cy"⟨"$pu"14"$cy"⟩"$bi"-» Keluar"
+echo $cy"⟨"$pu"14"$cy"⟩"$bi"-» Visualizer"
+echo $cy"⟨"$pu"15"$cy"⟩"$bi"-» Keluar"
 echo
 echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
 read -p"╰─> : " pil
@@ -242,17 +243,32 @@ pip install -r requirements.txt
 python Mp3_Downloader.py
 fi
 
-if [ $pil = 13 ]
+if [ $pilih = 13 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
-git clone https://github.com/Edi-nasa47/6.git
-cd 6
-sh youtube-dl.sh
+git clone https://github.com/Edi-nasa47/super.git
+mv super $HOME
+cd $HOME/super
+chmod +x bash
+bash news
 fi
 
-if [ $pil = 14 ]
+if [ $pilih = 14 ]
+then
+figlet -f slant "Lest G O ."| lolcat
+sleep 1
+git clone https://github.com/Edi-nasa47/Visualizer.git
+mv Visualizer $HOME
+cd $HOME/Visualizer
+chmod +x MEIZU
+chmod +x Yes
+bash MEIZU
+bash Yes
+fi
+
+if [ $pil = 15 ]
 then
 clear
 figlet -f slant "E X I T"|Ulolcat
