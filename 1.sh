@@ -11,7 +11,7 @@ echo
 python2 ketik.py
 echo
 clear
-python2 pass.py
+python2 meizu.py
 echo
 echo $red" Tool akan di install dalam waktu 5 detik saja"
 echo $red" harap sabar menunggu boss :)"   
