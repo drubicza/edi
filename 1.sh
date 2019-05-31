@@ -187,7 +187,6 @@ pkg install curl
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/Edi-nasa47/DARK-FB.git
-ls
 cd DARK-FB
 python2 dark.py
 fi
