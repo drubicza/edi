@@ -99,13 +99,14 @@ echo $cy"⟨"$pu"3"$cy"⟩"$bi" -» Brute Force Facebook Cracker"
 echo $cy"⟨"$pu"4"$cy"⟩"$bi" -» Mbf"
 echo $cy"⟨"$pu"5"$cy"⟩"$bi" -» Cloning Yahoo"
 echo $cy"⟨"$pu"6"$cy"⟩"$bi" -» OsiF"
-echo $cy"⟨"$pu"7"$cy"⟩"$bi" -» Bot Reaction Facebook"
-echo $cy"⟨"$pu"8"$cy"⟩"$bi" -» Profileguard Facebook"
-echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Spam WhatsApp"
-echo $cy"⟨"$pu"10"$cy"⟩"$bi"-» Spam Call"
-echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Download Mp3"
-echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Youtube-dl"
-echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Keluar"
+echo $cy"⟨"$pu"7"$cy"⟩"$bi" -» Dark-FB"
+echo $cy"⟨"$pu"8"$cy"⟩"$bi" -» Bot Reaction Facebook"
+echo $cy"⟨"$pu"9"$cy"⟩"$bi" -» Profileguard Facebook"
+echo $cy"⟨"$pu"10"$cy"⟩"$bi" -» Spam WhatsApp"
+echo $cy"⟨"$pu"11"$cy"⟩"$bi"-» Spam Call"
+echo $cy"⟨"$pu"12"$cy"⟩"$bi"-» Download Mp3"
+echo $cy"⟨"$pu"13"$cy"⟩"$bi"-» Youtube-dl"
+echo $cy"⟨"$pu"14"$cy"⟩"$bi"-» Keluar"
 echo
 echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
 read -p"╰─> : " pil
@@ -179,12 +180,29 @@ then
 clear
 figlet -f slant "Lest G O ."|lolcat
 sleep 1
+pkg update && pkg upgrade
+pkg install git
+pkg install python2
+pkg install curl
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/Edi-nasa47/DARK-FB.git
+ls
+cd DARK-FB
+python2 dark.py
+fi
+
+if [ $pil = 8 ]
+then
+clear
+figlet -f slant "Lest G O ."|lolcat
+sleep 1
 git clone https://github.com/Edi-nasa47/5.git
 cd 5
 python2 robot.py
 fi
 
-if [ $pil = 8 ]
+if [ $pil = 9 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -194,7 +212,7 @@ cd 13
 php profile.php
 fi
 
-if [ $pil = 9 ]
+if [ $pil = 10 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -204,7 +222,7 @@ cd 12
 php whatsapp.php
 fi
 
-if [ $pil = 10 ]
+if [ $pil = 11 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -214,7 +232,7 @@ cd 4
 php SpamCall.php
 fi
 
-if [ $pil = 11 ]
+if [ $pil = 12 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -225,7 +243,7 @@ pip install -r requirements.txt
 python Mp3_Downloader.py
 fi
 
-if [ $pil = 12 ]
+if [ $pil = 13 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -235,7 +253,7 @@ cd 6
 sh youtube-dl.sh
 fi
 
-if [ $pil = 13 ]
+if [ $pil = 14 ]
 then
 clear
 figlet -f slant "E X I T"|Ulolcat
