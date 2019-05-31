@@ -243,7 +243,7 @@ pip install -r requirements.txt
 python Mp3_Downloader.py
 fi
 
-if [ $pilih = 13 ]
+if [ $pil = 13 ]
 then
 clear
 figlet -f slant "Lest G O ."|lolcat
@@ -255,7 +255,7 @@ chmod +x bash
 bash news
 fi
 
-if [ $pilih = 14 ]
+if [ $pil = 14 ]
 then
 figlet -f slant "Lest G O ."| lolcat
 sleep 1
