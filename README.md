@@ -1,5 +1,5 @@
-# <i> INSTALL DULU PAKETNYA DENGAN MEMASUKKAN PERINTAH DI BAWAH INI:</i><br><br>
-$ <i> pkg update && apt upgrade<i/><br>
+## <i> INSTALL DULU PAKETNYA DENGAN MEMASUKKAN PERINTAH DI BAWAH INI:</i><br><br>
+$ <i> pkg update && pkg upgrade<i/><br>
 $ <i> pkg install git<i/><br>
 $ <i> pkg install python2<i/><br>
 $ <i> pip2 install mechanize<i/><br>
