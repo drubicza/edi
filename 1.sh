@@ -11,6 +11,7 @@ echo
 echo $i""
 python2 ketik.py
 echo
+sleep 6
 clear
 echo
 echo $red" Tool akan di install dalam waktu 5 detik saja"
