@@ -8,7 +8,7 @@ me='\033[31;1m' #MERAH
 pu='\033[37;1m' #PUTIH
 ku='\033[33;1m' #KUNING
 echo
-echo
+echo $i""
 python2 ketik.py
 echo
 clear
