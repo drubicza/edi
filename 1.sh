@@ -1,3 +1,4 @@
+#!/bin/bash
 clear
 bi='\033[34;1m' #BIRU
 i='\033[32;1m' #IJO
@@ -11,7 +12,6 @@ echo
 python2 ketik.py
 echo
 clear
-python2 meizu.py
 echo
 echo $red" Tool akan di install dalam waktu 5 detik saja"
 echo $red" harap sabar menunggu boss :)"   
