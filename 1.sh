@@ -15,7 +15,7 @@ sleep 6
 clear
 echo
 echo $red" Tool akan di install dalam waktu 5 detik saja"
-echo $red" harap sabar menunggu boss :)"   
+echo $red" harap sabar menunggu boss :)"
 sleep 1
 echo '''\a
 \033[34;1m               _
@@ -114,210 +114,194 @@ echo
 echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
 read -p"╰─> : " pil
 
-if [ $pil = 1 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/IlayTamvan/Report.git
-cd Report
-unzip Report.zip
-python2 Report.py
+if [ $pil = 1 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/IlayTamvan/Report.git
+    cd Report
+    unzip Report.zip
+    python2 Report.py
 fi
 
-if [ $pil = 2 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/3.git
-cd 3
-python2 brute.py
+if [ $pil = 2 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/3.git
+    cd 3
+    python2 brute.py
 fi
 
-if [ $pil = 3 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/7.git
-cd 7
-python2 crack.py
+if [ $pil = 3 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/7.git
+    cd 7
+    python2 crack.py
 fi
 
-if [ $pil = 4 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/1.git
-cd 1
-python2 MBF.py
+if [ $pil = 4 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/1.git
+    cd 1
+    python2 MBF.py
 fi
 
-if [ $pil = 5 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/2.git
-cd 2
-pip2 install requests mechanize
-pip2 install requirements
-python2 boss.py
+if [ $pil = 5 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/2.git
+    cd 2
+    pip2 install requests mechanize
+    pip2 install requirements
+    python2 boss.py
 fi
 
-if [ $pil = 6 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/8.git
-cd 8
-pip2 install -r requirements.txt
-python2 osif.py
+if [ $pil = 6 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/8.git
+    cd 8
+    pip2 install -r requirements.txt
+    python2 osif.py
 fi
 
-if [ $pil = 7 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-pkg update && pkg upgrade
-pkg install git
-pkg install python2
-pip2 install mechanize
-pip2 install requests
-pip2 install bs4
-git clone https://github.com/Edi-nasa47/autombf.git
-cd autombf
-python2 mayat.py
+if [ $pil = 7 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    pkg update && pkg upgrade
+    pkg install git
+    pkg install python2
+    pip2 install mechanize
+    pip2 install requests
+    pip2 install bs4
+    git clone https://github.com/Edi-nasa47/autombf.git
+    cd autombf
+    python2 mayat.py
 fi
 
-if [ $pil = 8 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-pkg update && pkg upgrade
-pkg install git
-pkg install python2
-pkg install curl
-pip2 install requests
-pip2 install mechanize
-git clone https://github.com/Edi-nasa47/DARK-FB.git
-cd DARK-FB
-python2 dark.py
+if [ $pil = 8 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    pkg update && pkg upgrade
+    pkg install git
+    pkg install python2
+    pkg install curl
+    pip2 install requests
+    pip2 install mechanize
+    git clone https://github.com/Edi-nasa47/DARK-FB.git
+    cd DARK-FB
+    python2 dark.py
 fi
 
-if [ $pil = 9 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/5.git
-cd 5
-python2 robot.py
+if [ $pil = 9 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/5.git
+    cd 5
+    python2 robot.py
 fi
 
-if [ $pil = 10 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/13.git
-cd 13
-php profile.php
+if [ $pil = 10 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/13.git
+    cd 13
+    php profile.php
 fi
 
-if [ $pil = 11 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/12.git
-cd 12
-php whatsapp.php
+if [ $pil = 11 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/12.git
+    cd 12
+    php whatsapp.php
 fi
 
-if [ $pil = 12 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/4.git
-cd 4
-php SpamCall.php
+if [ $pil = 12 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/4.git
+    cd 4
+    php SpamCall.php
 fi
 
-if [ $pil = 13 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/Mp3_Downloader.git
-cd Mp3_Downloader
-pip install -r requirements.txt
-python Mp3_Downloader.py
+if [ $pil = 13 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/Mp3_Downloader.git
+    cd Mp3_Downloader
+    pip install -r requirements.txt
+    python Mp3_Downloader.py
 fi
 
-if [ $pil = 14 ]
-then
-clear
-figlet -f slant "Lest G O ."|lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/super.git
-mv super $HOME
-cd $HOME/super
-chmod +x bash
-bash news
+if [ $pil = 14 ]; then
+    clear
+    figlet -f slant "Lest G O ."|lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/super.git
+    mv super $HOME
+    cd $HOME/super
+    chmod +x bash
+    bash news
 fi
 
-if [ $pil = 15 ]
-then
-figlet -f slant "Lest G O ."| lolcat
-sleep 1
-git clone https://github.com/Edi-nasa47/Visualizer.git
-mv Visualizer $HOME
-cd $HOME/Visualizer
-chmod +x MEIZU
-chmod +x Yes
-bash MEIZU
-bash Yes
+if [ $pil = 15 ]; then
+    figlet -f slant "Lest G O ."| lolcat
+    sleep 1
+    git clone https://github.com/Edi-nasa47/Visualizer.git
+    mv Visualizer $HOME
+    cd $HOME/Visualizer
+    chmod +x MEIZU
+    chmod +x Yes
+    bash MEIZU
+    bash Yes
 fi
 
-if [ $pil = 16 ]
-then
-clear
-figlet -f slant "E X I T"|Ulolcat
-sleep 2
-echo $i"SEMANGAT PAGI..."
-echo $i"Terima Kasih Akang sudah mengunakan Tools ini"
-sleep 2
-echo $i"Silahkan Akang di pakai semoga bermanfaat"
-sleep 2
-echo $i"Buat Akang²"
-sleep 2
-echo $i"Bila Akang belum mengerti Akang Bisa Nanya"
-echo $i"Melalui Via:"
-sleep 2
-echo $ku"Facebook :"$pur" Edi"
-echo $ku"YouTube  :"$pur" Edi Garsell"
-echo $ku"WhatsApp :"$pur" 083808341xxx"
-sleep 2
-echo $i"dan jangan lupa "$cy" LIKE SHARE AND SUBSCRIBE"
-sleep 2
-echo $i"Video Channel "$cy" Edi Garsell"
-sleep 2
-echo $i"Agar tambah semangat Upload Video²"
-sleep 2
-echo $i"terbaru menarik dari saya"
-echo $i"silahkan Aktifkan juga ya Akang Tombol Loncengnya"
-sleep 2
-echo $i"Agar dapat pemberitahuan Video²"
-echo $i"selanjutnya dari saya OKE"
-sleep 2
-echo
-echo $cy"Thanks FOR WATCHING....!!!"
-exit
+if [ $pil = 16 ]; then
+    clear
+    figlet -f slant "E X I T"|Ulolcat
+    sleep 2
+    echo $i"SEMANGAT PAGI..."
+    echo $i"Terima Kasih Akang sudah mengunakan Tools ini"
+    sleep 2
+    echo $i"Silahkan Akang di pakai semoga bermanfaat"
+    sleep 2
+    echo $i"Buat Akang²"
+    sleep 2
+    echo $i"Bila Akang belum mengerti Akang Bisa Nanya"
+    echo $i"Melalui Via:"
+    sleep 2
+    echo $ku"Facebook :"$pur" Edi"
+    echo $ku"YouTube  :"$pur" Edi Garsell"
+    echo $ku"WhatsApp :"$pur" 083808341xxx"
+    sleep 2
+    echo $i"dan jangan lupa "$cy" LIKE SHARE AND SUBSCRIBE"
+    sleep 2
+    echo $i"Video Channel "$cy" Edi Garsell"
+    sleep 2
+    echo $i"Agar tambah semangat Upload Video²"
+    sleep 2
+    echo $i"terbaru menarik dari saya"
+    echo $i"silahkan Aktifkan juga ya Akang Tombol Loncengnya"
+    sleep 2
+    echo $i"Agar dapat pemberitahuan Video²"
+    echo $i"selanjutnya dari saya OKE"
+    sleep 2
+    echo
+    echo $cy"Thanks FOR WATCHING....!!!"
+    exit
 fi
